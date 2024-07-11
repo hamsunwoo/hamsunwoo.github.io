@@ -10,7 +10,6 @@ DATE=$(date +"%Y%m%d %H:%M:%S")
   else
       clear
       figlet KIA
-      #DATE=$(date +"%Y%m%d %H:%M:%S")
       echo $DATE
   fi
   sleep 3
